@@ -1,35 +1,35 @@
 //=============『 Utama 』================== //
-global.owner = ['6287892711054'] 
+global.owner = ['254711107992'] 
 global.mods = [] 
 global.prems = [] 
 
 //=============『 Info Owner 』============== //
-global.nameowner = 'Hyzer Official'
-global.numberowner = '6287892711054'
-global.instagram = 'https://instagram.com/hyzer_stfu'
-global.github = 'https://github.com/Hyzerr'
-global.dana = '087892711054'
-global.pulsa = '085212023766'
-global.gopay = '087892711054'
+global.nameowner = '⃢豈␥ꦿ҈⃟  MALIK𝕺⃟⃤🇦🇱᪣⃘͜͡⃟⃤⃢🏴‍☠️'
+global.numberowner = '254711107992'
+global.instagram = 'https://instagram.com/texas__finnest'
+global.github = 'https://github.com/mujahid40'
+global.dana = '254735306047'
+global.pulsa = '254769527061'
+global.gopay = '254796032440'
 
 //=============『 Info Bot 』=================//
-global.namebot = 'Yuno Gasai Bot'
-global.gc = 'bit.ly/AnyaBot-Group'
-global.web = 'https://github.com/Hyzerr' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
+global.namebot = '⃢豈␥ꦿ҈⃟  MALIK𝕺⃟⃤🇦🇱᪣⃘͜͡⃟⃤⃢🏴‍☠️'
+global.gc = 'https://chat.whatsapp.com/JiMoc83iH6FCFvg2AEZDEX'
+global.web = 'https://instagram.com/texas__finnest' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
 global.price1 = '1 bulan = 10.000\n2 Minggu 7.000\n1 Minggu 5.000'
 
 //=======『 Tampilan Dan Lainnya 』============//
-global.fotonya1 = 'https://telegra.ph/file/e4a2f4339da8a32ad20a1.jpg' //ganti jadi foto bot mu
-global.fotonya2 = 'https://telegra.ph/file/8c471d45b6cedad43cf84.jpg' //ini juga ganti 
+global.fotonya1 = 'https://i.imgur.com/dbF6xw2.jpeg' //ganti jadi foto bot mu
+global.fotonya2 = 'https://i.imgur.com/dbF6xw2.jpeg' //ini juga ganti 
 global.lolkey = 'Papah-Chan' //biar mudah ngegantinya semisal apikeynya expired:v
 global.zenzkey = 'BagasPrdn' //ganti jadi apikey lu kalau expired
-global.wm = 'ꜱʜɪʀᴏ ɪᴋᴀꜱᴀᴋɪ ʙᴏᴛ'
+global.wm = '⃢豈␥ꦿ҈⃟  MALIK𝕺⃟⃤🇦🇱᪣⃘͜͡⃟⃤⃢'
 global.watermark = wm
-global.wm2 = '                     「 𝚂𝙷𝙸𝚁𝙾-𝙼𝙳 あ⁩ 」'
-global.wm3 = '𝚂𝙷𝙸𝚁𝙾-𝙼𝙳'
+global.wm2 = '                     ⃢豈␥ꦿ҈⃟  MALIK𝕺⃟⃤🇦🇱᪣⃘͜͡⃟⃤⃢あ⁩ 」'
+global.wm3 = '⃢豈␥ꦿ҈⃟  MALIK𝕺⃟⃤🇦🇱᪣⃘͜͡⃟⃤⃢'
 global.htki = '––––––『' 
 global.htka = '』––––––'
-global.media = 'https://telegra.ph/file/72168c6f1aaa90315c369.jpg'
+global.media = 'https://i.imgur.com/dbF6xw2.jpeg'
 global.fla = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=smurfs-logo&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
 global.wait = '_*tunggu sedang di proses...*_'
 global.eror = '_*Server Error*_'
